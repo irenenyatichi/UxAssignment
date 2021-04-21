@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+.song{
+    width: 500px;
+    border: 10px solid violet;
+    background-color: turquoise;
+    padding: 20px;
+    margin: 100px;
+}
+.foot{
+    text-align: right;
+}
